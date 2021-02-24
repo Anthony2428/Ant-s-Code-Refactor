@@ -36,11 +36,11 @@ body {
 }
 
 /* Dividing the "list" into 3 seperate anchor texts */
-.header div ul {
+.NavItems {
     list-style-type: none;
 }
 
-.header div ul li {
+.NavItems li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -141,6 +141,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer footer {
     font-size: 20px;
 }
